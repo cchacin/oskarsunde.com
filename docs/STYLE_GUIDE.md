@@ -645,8 +645,8 @@ Examples:
 ```html
 <meta property="og:title" content="Oskar Sunde | High School Portfolio">
 <meta property="og:description" content="Portfolio showcasing volunteer work, academic achievements, and extracurricular leadership.">
-<meta property="og:image" content="https://oskarsunde.com/assets/og-image.jpg">
-<meta property="og:url" content="https://oskarsunde.com">
+<meta property="og:image" content="https://cchacin.github.io/oskarsunde.com/assets/og-image.jpg">
+<meta property="og:url" content="https://cchacin.github.io/oskarsunde.com">
 <meta property="og:type" content="website">
 ```
 
@@ -657,8 +657,8 @@ Examples:
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Oskar Sunde",
-  "url": "https://oskarsunde.com",
-  "image": "https://oskarsunde.com/assets/profile.jpg",
+  "url": "https://cchacin.github.io/oskarsunde.com",
+  "image": "https://cchacin.github.io/oskarsunde.com/assets/profile.jpg",
   "jobTitle": "High School Student",
   "alumniOf": {
     "@type": "EducationalOrganization",

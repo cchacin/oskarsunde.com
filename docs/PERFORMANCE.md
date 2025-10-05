@@ -75,14 +75,14 @@ This document explains the performance optimizations implemented in this portfol
 ### 2. WebPageTest
 ```
 Visit: https://www.webpagetest.org/
-Enter: https://oskarsunde.com
+Enter: https://cchacin.github.io/oskarsunde.com
 Run Test
 ```
 
 ### 3. GTmetrix
 ```
 Visit: https://gtmetrix.com/
-Enter: https://oskarsunde.com
+Enter: https://cchacin.github.io/oskarsunde.com
 Analyze
 ```
 

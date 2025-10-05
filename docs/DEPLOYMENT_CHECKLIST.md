@@ -154,7 +154,7 @@
 
 ```yaml
 # Required for GitHub Pages
-url: "https://oskarsunde.com"  # or https://[username].github.io
+url: "https://cchacin.github.io/oskarsunde.com"  # or https://[username].github.io
 baseurl: ""  # Leave empty for user pages
 
 # Build settings
