@@ -15,8 +15,8 @@ keywords: high-school-portfolio, college-applications, student-portfolio, Oskar-
 lang: en
 icon: 🎓
 
-url: https://cchacin.github.io/oskarsunde.com # Update when custom domain is configured
-baseurl: "" # Leave blank for user pages (username.github.io)
+url: https://cchacin.github.io # Update when custom domain is configured
+baseurl: /oskarsunde.com # Base path for project pages
 last_updated: false
 
 # -----------------------------------------------------------------------------
