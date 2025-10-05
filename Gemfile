@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # Core Jekyll
 gem "jekyll", "~> 4.3"
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 
 # Jekyll plugins
 gem "jekyll-email-protect"
